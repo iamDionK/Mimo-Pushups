@@ -32,9 +32,9 @@ This repository serves as a verifiable audit trail of my coding competency. It t
 
 | Day | Date | Topic | Key Takeaway / Concept |
 | :--- | :--- | :--- | :--- |
-| **001** | DEC 14 | *Setup* | `print("Hello World")` - Initialized Repo. |
-| **002** | DEC 15 | *Variables* | Storing data types (Strings vs Integers). |
-| **003** | DEC 16 | *Logic* | [Placeholder for your next win] |
+| **001** | DEC 13 | *Setup* | `print("Hello World")` - Initialized Repo. |
+| **002** | DEC 14 | *Variables* | Inputting `int` vs `str` & using f-strings. |
+| **003** | DEC 15 | *Logic* | [Placeholder for your next win] |
 
 ---
 
