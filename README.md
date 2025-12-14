@@ -32,7 +32,7 @@ This repository serves as a verifiable audit trail of my coding competency. It t
 
 | Day | Date | Topic | Key Takeaway / Concept |
 | :--- | :--- | :--- | :--- |
-| **001** | Nov 27 | *Setup* | `print("Hello World")` - Initialized Repo. |
+| DEC 14 | Nov 27 | *Setup* | `print("Hello World")` - Initialized Repo. |
 | **002** | Nov 28 | *Variables* | Storing data types (Strings vs Integers). |
 | **003** | ... | *Logic* | [Placeholder for your next win] |
 
