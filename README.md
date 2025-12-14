@@ -1,1 +1,1 @@
-# Mimo-Pushups
+Print("Hello World")
