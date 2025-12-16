@@ -34,7 +34,7 @@ This repository serves as a verifiable audit trail of my coding competency. It t
 | :--- | :--- | :--- | :--- |
 | **001** | DEC 13 | *Setup* | `print("Hello World")` - Initialized Repo. |
 | **002** | DEC 14 | *Variables* | Inputting `int` vs `str` & using f-strings. |
-| **003** | DEC 15 | *Logic* | [Placeholder for your next win] |
+| **003** | DEC 15 | *Logic* | if/else branching & indentation rules. |
 
 ---
 
